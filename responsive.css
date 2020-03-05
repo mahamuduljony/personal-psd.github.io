@@ -1,0 +1,29 @@
+@media all and (max-width:768px){
+	.column {
+		
+	}
+	
+}
+@media all and (max-width:600px){
+	.catagory-area ul li a {
+		display:block;
+		
+	}
+	.subscribe-area form input {
+		margin-bottom:14px;
+	}
+	.photography-area h2 {
+		font-size:40px;
+	}
+		
+}
+@media all and (max-width:450px){
+	.work-area a {
+		font-size:16px;
+	}
+}
+@media all and (max-width:370px){
+	.work-area a {
+		font-size:12px;
+	}
+}
